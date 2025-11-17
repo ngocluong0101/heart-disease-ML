@@ -2,4 +2,4 @@
 
 ## Kết quả Dự đoán
 
-![Giao diện dự đoán bệnh tim](./images/interface.png)
+![Giao diện dự đoán bệnh tim](./images/image.png)
